@@ -1,6 +1,5 @@
 
 <!--
-**tarikmanoar/tarikmanoar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -21,10 +20,10 @@ Here are some ideas to get you started:
 <h1 align="center" >Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-                            width="45" /> there, I'm <a href="https://tarikmanoar.github.io"> Manoar</a> </h1>
+                            width="45" /> there, I'm <a href="https://ftmanoar.github.io"> Manoar</a> </h1>
 <div align="center">
 <a href="mailto:tarikmanoar@gmail.com"><img src="https://img.shields.io/badge/-Mail Me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://tarikmanoar.github.io/"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+<a href="https://ftmanoar.github.io/"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"/></a>
 <a href="https://facebook.com/tarikmanoar"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/tarikmanoar/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/tarikmanoar/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
@@ -64,40 +63,40 @@ Here are some ideas to get you started:
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 <!--
-<a href="https://github.com/tarikmanoar" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikmanoar&theme=radical" />
+<a href="https://github.com/ftmanoar" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftmanoar&theme=radical" />
 </a> 
-<a href="https://github.com/tarikmanoar" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarikmanoar&show_icons=true&theme=radical&line_height=27" alt="Manoar's github stats" style="width: 685px;" />
+<a href="https://github.com/ftmanoar" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ftmanoar&show_icons=true&theme=radical&line_height=27" alt="Manoar's github stats" style="width: 685px;" />
 </a>
 
 
-<a href="https://github.com/tarikmanoar" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=html&theme=radical" />
+<a href="https://github.com/ftmanoar" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ftmanoar&repo=html&theme=radical" />
 </a>    
-<a href="https://github.com/tarikmanoar" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=kajki&theme=radical" />
+<a href="https://github.com/ftmanoar" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ftmanoar&repo=kajki&theme=radical" />
 </a>
 -->
 <!--
-| [![](https://github-readme-stats.vercel.app/api/top-langs/?username=tarikmanoar&theme=radical)](https://github.com/tarikmanoar, "Manoar's Github")  |  [![Tarik Manoar Github](https://github-readme-stats.vercel.app/api?username=tarikmanoar&show_icons=true&theme=radical&line_height=40 "Tarik Manoar Github")](https://github.com/tarikmanoar "Manoar's Github") |
+| [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ftmanoar&theme=radical)](https://github.com/ftmanoar, "Manoar's Github")  |  [![Tarik Manoar Github](https://github-readme-stats.vercel.app/api?username=ftmanoar&show_icons=true&theme=radical&line_height=40 "Tarik Manoar Github")](https://github.com/ftmanoar "Manoar's Github") |
 | :------------: | :------------: |
 -->
 
 ## My GitHub Stats
 <div>
-<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarikmanoar&theme=radical" alt="tarikmanoar" />
-<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=tarikmanoar&show_icons=true&locale=en&theme=radical" alt="tarikmanoar" />
+<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ftmanoar&theme=radical" alt="ftmanoar" />
+<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=ftmanoar&show_icons=true&locale=en&theme=radical" alt="ftmanoar" />
 </div>
 <br>
 
 
-![](https://activity-graph.herokuapp.com/graph?username=tarikmanoar&theme=redical)
+![](https://activity-graph.herokuapp.com/graph?username=ftmanoar&theme=redical)
 
 
 <hr>
 
 <p align="center">
-  <img src="https://github.com/tarikmanoar/tarikmanoar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/ftmanoar/ftmanoar/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
